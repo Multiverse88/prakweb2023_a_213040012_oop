@@ -9,16 +9,16 @@
 - const bisa disimpan dalam kelas.
 */
 
-// define("NAMA", "Muhammad Lutfi");
+// define("NAMA", "Ainan Bahrul Ihsan");
 // echo NAMA;
 
 // echo "<br>";
 
-// const UMUR = 20;
+// const UMUR = 21;
 // echo UMUR
 
 // class Coba {
-//     const NAMA = "Muhammad Lutfi";
+//     const NAMA = "Ainan Bahrul Ihsan";
 // }
 
 // echo Coba::NAMA;
